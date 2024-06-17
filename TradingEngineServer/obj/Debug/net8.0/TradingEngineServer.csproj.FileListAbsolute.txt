@@ -44,3 +44,6 @@
 /Users/evan/TradingEngineServer/TradingEngineServer/obj/Debug/net8.0/TradingEngineServer.Core.pdb
 /Users/evan/TradingEngineServer/TradingEngineServer/obj/Debug/net8.0/TradingEngineServer.genruntimeconfig.cache
 /Users/evan/TradingEngineServer/TradingEngineServer/obj/Debug/net8.0/ref/TradingEngineServer.Core.dll
+/Users/evan/TradingEngineServer/TradingEngineServer/bin/Debug/net8.0/TradingEngineServer.Logging.dll
+/Users/evan/TradingEngineServer/TradingEngineServer/bin/Debug/net8.0/TradingEngineServer.Logging.pdb
+/Users/evan/TradingEngineServer/TradingEngineServer/bin/Debug/net8.0/appsettings.json

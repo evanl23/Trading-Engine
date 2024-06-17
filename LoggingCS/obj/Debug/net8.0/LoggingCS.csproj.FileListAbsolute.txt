@@ -1,0 +1,12 @@
+/Users/evan/TradingEngineServer/LoggingCS/bin/Debug/net8.0/TradingEngineServer.Logging.deps.json
+/Users/evan/TradingEngineServer/LoggingCS/bin/Debug/net8.0/TradingEngineServer.Logging.dll
+/Users/evan/TradingEngineServer/LoggingCS/bin/Debug/net8.0/TradingEngineServer.Logging.pdb
+/Users/evan/TradingEngineServer/LoggingCS/obj/Debug/net8.0/LoggingCS.csproj.AssemblyReference.cache
+/Users/evan/TradingEngineServer/LoggingCS/obj/Debug/net8.0/LoggingCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evan/TradingEngineServer/LoggingCS/obj/Debug/net8.0/LoggingCS.AssemblyInfoInputs.cache
+/Users/evan/TradingEngineServer/LoggingCS/obj/Debug/net8.0/LoggingCS.AssemblyInfo.cs
+/Users/evan/TradingEngineServer/LoggingCS/obj/Debug/net8.0/LoggingCS.csproj.CoreCompileInputs.cache
+/Users/evan/TradingEngineServer/LoggingCS/obj/Debug/net8.0/TradingEngineServer.Logging.dll
+/Users/evan/TradingEngineServer/LoggingCS/obj/Debug/net8.0/refint/TradingEngineServer.Logging.dll
+/Users/evan/TradingEngineServer/LoggingCS/obj/Debug/net8.0/TradingEngineServer.Logging.pdb
+/Users/evan/TradingEngineServer/LoggingCS/obj/Debug/net8.0/ref/TradingEngineServer.Logging.dll
