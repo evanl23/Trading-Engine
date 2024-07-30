@@ -1,2 +1,3 @@
 # Trading-Engine
-This is my repository for the Trading Engine I built with tutorial from Coding Jesus
+
+This is my repository for a Trading Server Engine that hosts servers and matches orders between clients
